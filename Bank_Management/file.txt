@@ -1,6 +1,6 @@
 Name: Sindhu
 Age: 23
 Gender: female
-kyc: 567
+kyc: 653
 address: H.no:2-52
 Account Type: saving
